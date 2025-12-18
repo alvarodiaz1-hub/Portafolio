@@ -33,3 +33,14 @@ El trabajo debe realizarse en tres etapas principales:
 - Mostrar la distribución del PIB (histograma o boxplot), ya que es la variable objetivo.
 
 - Mapa con la distribución del PIB
+  
+###**Etapa 2:***
+
+- Reduccion de dimensionalidad: Buscamos reducir el numero de variables de una base de datos, pero tratando de mantener toda la informacion relevante.
+  
+- Ecalar datos: Para aplicar PCA es necesario escalar los datos, para evitar que variables con valores grandes dominen el análisis.
+  
+- Mapa de calor de correlacion.
+  
+- Aplicacion de PCA: Buscamos reducir la dimensionalidad de un conjunto de datos y, al mismo tiempo, extraer las características más relevantes presentes en las variables numéricas originales.
+  
